@@ -1,0 +1,15 @@
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\bin\Debug\net6.0\ConsoleAp4.exe
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\bin\Debug\net6.0\ConsoleAp4.deps.json
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\bin\Debug\net6.0\ConsoleAp4.runtimeconfig.json
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\bin\Debug\net6.0\ConsoleAp4.dll
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\bin\Debug\net6.0\ConsoleAp4.pdb
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\ConsoleAp4.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\ConsoleAp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\ConsoleAp4.AssemblyInfoInputs.cache
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\ConsoleAp4.AssemblyInfo.cs
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\ConsoleAp4.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\ConsoleAp4.dll
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\refint\ConsoleAp4.dll
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\ConsoleAp4.pdb
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\ConsoleAp4.genruntimeconfig.cache
+C:\Users\Home\Documents\GIT PRUEBA\prueba\ConsoleAp4\obj\Debug\net6.0\ref\ConsoleAp4.dll
